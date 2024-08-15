@@ -1,0 +1,1 @@
+INSERT INTO users (login, pass_hash, role) VALUES ('admin', 'admin', 'ADMIN');
